@@ -553,6 +553,14 @@ To write cost and efforts effective tests (tests that should not be rewriten fro
 * [Video: The Magic Tricks of Testing by Sandi Metz](https://www.youtube.com/watch?v=URSWYvyc42M)
 * [Book: Practical Object-Oriented Design in Ruby (POODR) by Sandi Metz](http://www.poodr.com/)
 
+## Authentication & Authorization
+
+* [Devise]()
+* [Sourcery]()
+* [Tyrant](https://github.com/apotonick/tyrant)
+
+* [Pundit]()
+* [CanCanCan]()
 
 ## Know your Server!
 
